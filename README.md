@@ -1,11 +1,10 @@
 ## Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?size=20&pause=1000&color=36BCF7&width=300&lines=Full+Stack+Developer;Always+Learning)
+
 **hetvi0131-lab/hetvi0131-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hetvi0131-lab&color=blue&style=flat)
-![Typing SVG](https://readme-typing-svg.demolab.com?size=20&pause=1000&color=36BCF7&width=300&lines=Full+Stack+Developer;Always+Learning)
-
-
 
 Here are some ideas to get you started:
 
