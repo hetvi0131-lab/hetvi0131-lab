@@ -42,4 +42,3 @@ Here are some ideas to get you started:
 - LinkedIn
 - GitHub: http://github.com/hetvi0131-lab
 - email: hetvu0131@gmail.com
-
