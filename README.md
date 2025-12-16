@@ -2,6 +2,9 @@
 
 **hetvi0131-lab/hetvi0131-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Profile Views](https://komarev.com/ghpvc/?username=hetvi0131-lab&color=blue&style=flat)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m working on web projects
